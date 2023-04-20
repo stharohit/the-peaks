@@ -12,6 +12,10 @@ const Container = styled.main`
   padding-right: 12px;
   margin-left: auto;
   margin-right: auto;
+  
+  .greeting {
+    color: #fff;
+  }
 
   @media screen and (min-width: ${breakpoints.tablet}) {
     max-width: ${MAX_WIDTH.tablet}px;
