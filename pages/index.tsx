@@ -1,3 +1,3 @@
-import HomePage from 'src/pages/Home';
+import LoginPage from 'src/pages/Login';
 
-export default HomePage;
+export default LoginPage;
